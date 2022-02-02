@@ -40,6 +40,7 @@ var server_data = {
 
 // Aplicación VueJS
 // La aplicación recibe los datos en la variable de datos "col"
+
 var app = new Vue({
   el: '#app',
   data: {
